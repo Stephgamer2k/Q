@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj": {}
+    "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\ListApp\\ListApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj": {
+    "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\ListApp\\ListApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj",
-        "projectName": "QA_Ice_Task",
-        "projectPath": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj",
+        "projectUniqueName": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\ListApp\\ListApp.csproj",
+        "projectName": "ListApp",
+        "projectPath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\ListApp\\ListApp.csproj",
         "packagesPath": "C:\\Users\\nseng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\obj\\",
+        "outputPath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\ListApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,12 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "System.Windows.Extensions": {
-              "target": "Package",
-              "version": "[9.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

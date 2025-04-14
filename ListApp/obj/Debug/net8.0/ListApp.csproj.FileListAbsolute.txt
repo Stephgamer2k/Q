@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\bin\Debug\net8.0\ListApp.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\bin\Debug\net8.0\ListApp.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\bin\Debug\net8.0\ListApp.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\bin\Debug\net8.0\ListApp.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\bin\Debug\net8.0\ListApp.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\refint\ListApp.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ListApp.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\ListApp\obj\Debug\net8.0\ref\ListApp.dll

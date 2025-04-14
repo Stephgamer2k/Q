@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\QA_Ice_Task\\QA_Ice_Task.csproj",
+      "projectUniqueName": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj",
       "projectName": "QA_Ice_Task",
-      "projectPath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\QA_Ice_Task\\QA_Ice_Task.csproj",
+      "projectPath": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj",
       "packagesPath": "C:\\Users\\nseng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\QA_Ice_Task\\obj\\",
+      "outputPath": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

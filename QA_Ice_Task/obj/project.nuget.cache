@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MdcQTGLsOQE=",
+  "dgSpecHash": "z1Zzq3sQTwk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nseng\\OneDrive\\Desktop\\C# projects\\QA_Ice_Task\\QA_Ice_Task.csproj",
+  "projectFilePath": "C:\\Users\\nseng\\OneDrive\\Documents\\NetBeansProjects\\POE_Trial\\Q\\QA_Ice_Task\\QA_Ice_Task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nseng\\.nuget\\packages\\system.windows.extensions\\9.0.3\\system.windows.extensions.9.0.3.nupkg.sha512"
   ],
