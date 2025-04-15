@@ -1,0 +1,14 @@
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.exe
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.deps.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.runtimeconfig.json
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\refint\TicketingSystem.dll
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.pdb
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.genruntimeconfig.cache
+C:\Users\nseng\OneDrive\Desktop\C# projects\TicketingSystem\TicketingSystem\obj\Debug\net8.0\ref\TicketingSystem.dll
