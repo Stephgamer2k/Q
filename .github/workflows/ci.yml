@@ -17,8 +17,8 @@ jobs:
       with:
         dotnet-version: '8.0.x'
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore TicketingSystem/TicketingSystem.sln
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build TicketingSystem/TicketingSystem.sln --no-restore
     - name: Run Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test TicketingSystem/TicketingSystem.sln --no-build --verbosity normal
